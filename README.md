@@ -8,4 +8,4 @@ SEO JUWAN'S BLOG
 [id]: URL "Optional Title here"
 
 Link: [new][newlink]
-[newlink]: https://devyurim.github.io/DE/Github%20Blog
+[newlink]: <https://devyurim.github.io/DE/Github%20Blog>
