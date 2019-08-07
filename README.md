@@ -1,2 +1,1 @@
-new world
-good
+SEO JUWAN'S BLOG
