@@ -14,5 +14,7 @@ SEO JUWAN'S BLOG
 
 Link: [new][newlink]
 [newlink]:
+
 1.<https://devyurim.github.io/DE/Github%20Blog>
+
 2.<https://rogerdudler.github.io/git-guide/index.ko.html>
