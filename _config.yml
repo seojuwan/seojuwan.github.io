@@ -1,9 +1,9 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
+title: juwan's blog
+description: "처음 만들어보는 블로그"
 show_downloads: true
 
-baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://seojuwan.github.io" # change this to the base hostname & protocol for your site
+baseurl: "" 
+url: "https://seojuwan.github.io" 
 
 
 google_analytics:
@@ -18,8 +18,8 @@ theme: # leave it empty
 # social
 author: lorepirri
 image: /thumbnail-jumbo.png
-twitter:
-  username: lorepirri
+
+  username: seojuwan
 
 plugins:
   - jekyll-target-blank
